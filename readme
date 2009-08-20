@@ -1,0 +1,5 @@
+It is pure inets based application so no other dependencies needed.
+It is just to show how to make a raw http call and pack SOAP Request into.
+This program can be called 
+
+soap:lang_lat_service("ZIP_CODE_STRING").
